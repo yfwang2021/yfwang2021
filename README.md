@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 This is Yifan Wang.
 
 - 😄 I am now a forth year Ph.D. student in [THUIR](http://www.thuir.cn/).
 - 💬 My major research interests are about trustworthy user modeling, debiased recommendation, fair recommendation, and etc.
