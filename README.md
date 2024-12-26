@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 😄 I am now a forth year Ph.D. student in [THUIR](http://www.thuir.cn/).
+- 💬 My major research interests are about trustworthy user modeling, debiased recommendation, fair recommendation, and etc.
+- 📫 Please feel free to contact me via [email](yf-wang21@mails.tsinghua.edu.cn).
+
 <!--
 **yfwang2021/yfwang2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
